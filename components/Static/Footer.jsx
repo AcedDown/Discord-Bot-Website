@@ -30,15 +30,9 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://discordbotlist.com/bots/ericbot"><img src="https://discordbotlist.com/api/v1/bots/1147999772293202081/widget"></a>
-<div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
-</a>
-<div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/owner/924325576095973426.svg"}/>
-</a>
+<a href="https://discordbotlist.com/bots/ericbot">
+    <img src="https://discordbotlist.com/api/v1/bots/1147999772293202081/widget">
+    </a>
                                 </div>
                             </Menu>
                         
@@ -107,7 +101,7 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; Astra Bot
+                            {new Date().getFullYear()} &copy; EricBot
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
@@ -115,7 +109,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Astra Bot ❤️"}
+                            {"Made with ❤️ by 4CE "}
                         </p>
                     </div>
                 </div>
