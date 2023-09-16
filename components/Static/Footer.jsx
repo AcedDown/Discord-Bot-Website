@@ -11,8 +11,8 @@ export default function Footer() {
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
-                                <img src="/img/logo2.png" className="rounded-full w-12" />
-                                <p className="font-semibold text-xl text-white">Astra Bot</p>
+                                <img src="https://cdn.discordapp.com/avatars/1147999772293202081/c07543ece92d1275653c86c21478b7f4.png" className="rounded-full w-12" />
+                                <p className="font-semibold text-xl text-white">EricBot</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
@@ -30,9 +30,7 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
-</a>
+<a href="https://discordbotlist.com/bots/ericbot"><img src="https://discordbotlist.com/api/v1/bots/1147999772293202081/widget"></a>
 <div className="py-1"></div>
 <a href="https://top.gg/bot/924325576095973426">
   <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
