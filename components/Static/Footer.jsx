@@ -31,7 +31,7 @@ export default function Footer() {
                                     </Menu.Button>
 <div className="py-1"></div>
 <a href="https://discordbotlist.com/bots/ericbot">
-    <img src="https://discordbotlist.com/api/v1/bots/1147999772293202081/widget">
+    <img src="https://discordbotlist.com/api/v1/bots/1147999772293202081/widget"/> 
     </a>
                                 </div>
                             </Menu>
