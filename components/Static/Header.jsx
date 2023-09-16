@@ -13,7 +13,7 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
 
                 <div className="flex justify-between border-b border-white/20 items-center px-5 py-4">
                     <div className="flex items-center">
-                        <img width="32" className="rounded-full icon-glow" src="/img/logo.jpg" />
+                        <img width="32" className="rounded-full icon-glow" src="https://cdn.discordapp.com/avatars/1147999772293202081/c07543ece92d1275653c86c21478b7f4.png?size=256" />
                         <p className=" font-extrabold ml-1 text-2xl">EricBot</p>
                     </div>
                     <button onClick={() => setOpen(!open)}><i className="cursor-pointer fa fa-times text-xl mr-2" /></button>
@@ -76,7 +76,7 @@ const Header = ({ $, NavItems }) => {
                 <div className="max-w-7xl px-5 mx-auto py-5 flex items-center justify-between">
                     <div className="flex items-center space-x-6">
                         <div className="flex items-center space-x-3">
-                            <img src="https://cdn.discordapp.com/attachments/1147470806989946913/1150005162505682995/EBD35F6B-F3BD-42D4-A099-CC85B5B08412.jpg" 
+                            <img src="https://cdn.discordapp.com/avatars/1147999772293202081/c07543ece92d1275653c86c21478b7f4.png?size=256" 
                                 className={`
                                     rounded-full 
                                 `}
